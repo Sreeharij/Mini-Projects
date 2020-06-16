@@ -1,0 +1,487 @@
+Ocean's Eleven 
+Saw 
+Back To The Future Part II 
+Crouching Tiger, Hidden Dragon 
+Superman Returns 
+Jailhouse Rock 
+Sideways 
+In The Company Of Men 
+Amores Perros 
+Ben-Hur 
+Sweeney Todd: The Demon Barber Of Fleet Street 
+Brick 
+Princess Mononoke 
+Superbad 
+Breakfast At Tiffany's 
+The Wicker Man 
+The Fountain 
+The Big Red One 
+Scream 
+The Son's Room 
+Topsy-Turvy 
+The Secret Life Of Walter Mitty 
+Flesh 
+Rebel Without A Cause 
+Santa Sangre 
+Pirates Of The Caribbean: Dead Man's Chest 
+Enter The Dragon 
+Into The Wild 
+Le Doulos 
+Harry Potter And The Prisoner Of Azkaban 
+Glengarry Glen Ross 
+Fear And Loathing In Las Vegas 
+The Crow 
+The Deer Hunter 
+Snatch 
+12 Monkeys 
+Seven Brides For Seven Brothers 
+Juno 
+Dead Man's Shoes 
+Halloween 
+Crash 
+Ikiru 
+Batman 
+Full Metal Jacket 
+28 Days Later 
+Top Gun 
+The Bourne Supremacy 
+Indiana Jones And The Kingdom Of The Crystal Skull 
+Unbreakable 
+Speed 
+King Kong 
+Star Wars Episode I: The Phantom Menace 
+A History Of Violence 
+Ten 
+High Fidelity 
+Dumb And Dumber 
+Hairspray 
+Dog Day Afternoon 
+Atonement 
+Being John Malkovich 
+Akira 
+Grosse Pointe Blank 
+The Lost Boys 
+Spider-Man 
+Beauty And The Beast 
+American Psycho 
+The Cat Concerto 
+Good Will Hunting 
+X-Men 2 
+Electra Glide In Blue 
+Big Trouble In Little China 
+Danger: Diabolik 
+The Enigma Of Kaspar Hauser 
+Spring In A Small Town 
+Enduring Love 
+Wonder Boys 
+To Have And Have Not 
+Kill Bill Vol. 2 
+A Man Escaped 
+Lethal Weapon 
+Jerry Maguire 
+Days Of Heaven 
+V For Vendetta 
+Lords Of Dogtown 
+Bad Taste 
+Dawn Of The Dead 
+The Double Life Of Véronique 
+Finding Nemo 
+Heathers 
+Spider-Man 2 
+A Hard Day's Night 
+Men In Black 
+Zelig 
+The Jungle Book 
+Iron Man 
+Dirty Dancing 
+RoboCop 
+Do The Right Thing 
+Little Miss Sunshine 
+Batman Returns 
+The Incredibles 
+Greed 
+Killer Of Sheep 
+Night Of The Living Dead 
+The Assassination Of Jesse James By The Coward Robert Ford 
+Casino 
+Cloverfield 
+Garden State 
+Paris, Texas 
+Mulholland Drive 
+2 Days In Paris 
+Election 
+The English Patient 
+Rain Man 
+The Great Silence 
+Ace In The Hole 
+The Shop Around The Corner 
+Serenity 
+Caché 
+Monty Python And The Holy Grail 
+Children Of Men 
+Ratatouille 
+The Goonies 
+Mean Streets 
+Zodiac 
+Four Weddings And A Funeral 
+Hot Fuzz 
+Wall-E 
+Army Of Darkness 
+Pirates Of The Caribbean: The Curse Of The Black Pearl 
+Rocky 
+The Breakfast Club 
+Airplane! 
+Cabaret 
+Predator 
+The Bourne Identity 
+Natural Born Killers 
+Good Morning, Vietnam 
+The Elephant Man 
+Clerks 
+The Return 
+The Lady Eve 
+Russian Ark 
+The Long Goodbye 
+Napoléon 
+Sunshine 
+Un Chien Andalou 
+Bugsy Malone 
+Unfaithfully Yours 
+Zulu 
+Planet Of The Apes 
+Arthur 
+Au Hasard Balthazar 
+All About Eve 
+Leave Her To Heaven 
+Fatal Attraction 
+The Last Waltz 
+Monsters, Inc. 
+The Gold Rush 
+The Passenger 
+High And Low 
+Spirited Away 
+Jules Et Jim 
+300 
+Titanic 
+The Seventh Seal 
+The Magnificent Ambersons 
+Grease 
+The Sixth Sense 
+The Green Mile 
+Star Wars Episode III: Revenge Of The Sith 
+The Lives Of Others 
+The Truman Show 
+The Nightmare Before Christmas 
+Out Of Sight 
+Kill Bill Vol. 1 
+Lone Star 
+The Last Seduction 
+Aladdin 
+Funny Face 
+Braveheart 
+The Lion King 
+Rebecca 
+Midnight Run 
+Trainspotting 
+Sense And Sensibility 
+Sweet Smell Of Success 
+Battleship Potemkin 
+American History X 
+Suspiria 
+Gremlins 
+Transformers 
+The Terminator 
+Midnight Cowboy 
+Indiana Jones And The Last Crusade 
+The Prestige 
+Radio Days 
+Together 
+The Best Years Of Our Lives 
+Love And Death 
+Sawdust And Tinsel 
+The Palm Beach Story 
+Le Cercle Rouge 
+It Happened One Night 
+The Untouchables 
+The Red Balloon 
+La Maman Et La Putain 
+La Belle Et La Bête 
+Rocco And His Brothers 
+Rashomon 
+Who Framed Roger Rabbit 
+Secrets And Lies 
+Solaris 
+Scarface 
+Ran 
+The Godfather Part III 
+Interview With The Vampire 
+Mad Max 2 
+On The Town 
+Layer Cake 
+My Neighbour Totoro 
+Sin City 
+The Maltese Falcon 
+The Bird With The Crystal Plumage 
+The Death Of Mr. Lazarescu 
+A Place In The Sun 
+The Lady Vanishes 
+Crimes And Misdemeanors 
+Ghost World 
+A. I. Artificial Intelligence 
+American Graffiti 
+Das Boot 
+The Virgin Suicides 
+Roman Holiday 
+Field Of Dreams 
+Groundhog Day 
+The Blues Brothers 
+The Black Cat 
+Le Quai Des Brumes 
+Ninotchka 
+The Verdict 
+First Blood 
+The Leopard 
+Darling 
+Sunrise 
+My Darling Clementine 
+All That Jazz 
+The Philadelphia Story 
+Downfall 
+Dazed And Confused 
+Heimat 
+King Kong 
+Brighton Rock 
+Forrest Gump 
+Cinema Paradiso 
+Requiem For A Dream 
+Delicatessen 
+Black Narcissus 
+Battle Royale 
+The Bourne Ultimatum 
+Indiana Jones And The Temple Of Doom 
+Jurassic Park 
+Shaun Of The Dead 
+Festen 
+No Country For Old Men 
+Léon 
+Romeo + Juliet 
+Get Carter 
+Distant Voices, Still Lives 
+Safe 
+Mother And Son 
+McCabe & Mrs Miller 
+Far From Heaven 
+The Outlaw Josey Wales 
+The Magnificent Seven 
+Sunday Bloody Sunday 
+Jackie Brown 
+Army Of Shadows 
+Songs From The Second Floor 
+M 
+Moulin Rouge! 
+Platoon 
+Local Hero 
+The Departed 
+The Misfits 
+The Exorcist 
+The Addiction 
+The Bride Of Frankenstein 
+Life Of Brian 
+The Killer 
+JFK 
+Before Sunrise 
+The Texas Chain Saw Massacre 
+Fargo 
+Point Break 
+Amélie 
+Bicycle Thieves 
+Ed Wood 
+Eraserhead 
+Brokeback Mountain 
+Big 
+Ghostbusters 
+School Of Rock 
+The Big Country 
+United 93 
+Paths Of Glory 
+Dirty Harry 
+Le Samourai 
+Performance 
+Beyond The Valley Of The Dolls 
+To Kill A Mockingbird 
+Toy Story 2 
+Hellzapoppin' 
+City Of God 
+A Canterbury Tale 
+Rushmore 
+Superman The Movie 
+Memento 
+The Wizard Of Oz 
+Brief Encounter 
+La Haine 
+Viridiana 
+Tootsie 
+Don't Look Now 
+Goldfinger 
+Partie De Campagne 
+The Searchers 
+The Bridge On The River Kwai 
+A Nightmare On Elm Street 
+The Year Of Living Dangerously 
+Being There 
+The Royal Tenenbaums 
+Unforgiven 
+True Romance 
+Saving Private Ryan 
+Badlands 
+Blue 
+The Innocents 
+Boogie Nights 
+Gladiator 
+The French Connection 
+The Red Shoes 
+Z 
+Notorious 
+Shampoo 
+Sophie's Choice 
+There Will Be Blood 
+Cyrano De Bergerac 
+Almost Famous 
+Snow White And The Seven Dwarfs 
+As Good As It Gets 
+Blow Out 
+Cool Hand Luke 
+Dances With Wolves 
+Amadeus 
+Duck Soup 
+Seven 
+Double Indemnity 
+Pan's Labyrinth 
+The Last Of The Mohicans 
+The Man Who Would Be King 
+Harvey 
+Lost In Translation 
+The Sting 
+Pat Garrett And Billy The Kid 
+A Bout De Souffle 
+The Silence Of The Lambs 
+A Woman Under The Influence 
+The Princess Bride 
+Los Olvidados 
+The Battle Of Algiers 
+The Wages Of Fear 
+Withnail And I 
+Miller's Crossing 
+Rio Bravo 
+Blazing Saddles 
+The Conversation 
+Anchorman: The Legend Of Ron Burgundy 
+I Am Cuba 
+Fitzcarraldo 
+Before Sunset 
+Touch Of Evil 
+The Tree Of Wooden Clogs 
+An American Werewolf In London 
+A Man For All Seasons 
+One Flew Over The Cuckoo's Nest 
+The Rules Of The Game 
+Rear Window 
+The Hustler 
+Raising Arizona 
+Network 
+Toy Story 
+North By Northwest 
+Reservoir Dogs 
+American Beauty 
+Yojimbo 
+The Wild Bunch 
+Spirit Of The Beehive 
+Once Upon A Time In America 
+Star Wars Episode VI: Return Of The Jedi 
+When Harry Met Sally 
+Magnolia 
+The King Of Comedy 
+Carrie 
+Blue Velvet 
+L. A. Confidential 
+Brazil 
+The Great Escape 
+Batman Begins 
+The Life And Death Of Colonel Blimp 
+The Thin Red Line 
+Spartacus 
+Manhattan 
+A Matter Of Life And Death 
+The Treasure Of The Sierra Madre 
+Eternal Sunshine Of The Spotless Mind 
+12 Angry Men 
+The Night Of The Hunter 
+Stand By Me 
+Three Colours Red 
+Annie Hall 
+Tokyo Story 
+Edward Scissorhands 
+Harold And Maude 
+Oldboy 
+Sunset Boulevard 
+The Graduate 
+The Usual Suspects 
+Come And See 
+Close Encounters Of The Third Kind 
+His Girl Friday 
+Lawrence Of Arabia 
+Casino Royale 
+La Dolce Vita 
+The Lord Of The Rings: The Two Towers 
+Donnie Darko 
+The Shining 
+8 1/2 
+Seven Samurai 
+Evil Dead 2 
+This Is Spinal Tap 
+E. T. The Extra-Terrestrial 
+On The Waterfront 
+Psycho 
+Schindler's List 
+The Big Lebowski 
+Kind Hearts And Coronets 
+The 400 Blows 
+Vertigo 
+The Matrix 
+Heat 
+A Clockwork Orange 
+Andrei Rublev 
+Terminator 2: Judgment Day 
+The Lord Of The Rings: The Return Of The King 
+Alien 
+Butch Cassidy And The Sundance Kid 
+Gone With The Wind 
+Aliens 
+Die Hard 
+Citizen Kane 
+Some Like It Hot 
+Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb 
+The Good The Bad And The Ugly 
+The Lord Of The Rings: The Fellowship Of The Ring 
+Back To The Future 
+Star Wars Episode IV: A New Hope 
+The Third Man 
+Blade Runner 
+The Godfather Part II 
+Casablanca 
+Taxi Driver 
+2001: A Space Odyssey 
+The Dark Knight 
+Once Upon A Time In The West 
+Chinatown 
+The Apartment 
+Raging Bull 
+Fight Club 
+Pulp Fiction 
+Apocalypse Now 
+GoodFellas 
+Jaws 
+The Shawshank Redemption 
+Star Wars Episode V: The Empire Strikes Back 
+Raiders Of The Lost Ark 
+The Godfather 
