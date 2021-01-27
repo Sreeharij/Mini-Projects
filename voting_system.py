@@ -33,7 +33,7 @@ def get_questions():
 def cast_vote(cnt,all_questions,question_number):
     vote = int(input("\nEnter option number to vote(1,2,3,4..): "))
 
-    if vote<=cnt:
+    if vote<=cnt and vote>0:
         all_questions[question_number][f'option{vote}'][1] += 1
         print('Vote Casted!')
         print("\nResult:\n")
@@ -74,7 +74,7 @@ def main():
             total_questions += 1
             print(f"{i+1} {all_questions[i]['question']}")
         question_number = int(input("\nEnter question number to answer: ")) - 1
-        while question_number >= total_questions:
+        while question_number >= total_questions or question_number<0:
             print("Invalid input. ")
             question_number = int(input("\nEnter question number to answer: ")) - 1
         else:
