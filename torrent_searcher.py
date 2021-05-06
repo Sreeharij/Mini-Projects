@@ -3,11 +3,11 @@ def install():
 	try:
 		import requests
 	except:
-		os.sytem('pip install requests')
+		os.system('pip install requests')
 	try:
 		from bs4 import BeautifulSoup
 	except:
-		os.sytem('pip install bs4')
+		os.system('pip install bs4')
 install()
 
 import requests
