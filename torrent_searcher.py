@@ -1,3 +1,4 @@
+import os
 def install():
 	try:
 		import requests
@@ -11,7 +12,6 @@ install()
 
 import requests
 from bs4 import BeautifulSoup
-import os
 
 path=os.getcwd()
 
