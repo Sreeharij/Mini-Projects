@@ -67,7 +67,7 @@ def kickass_torrents(query):
 	current_proxy = proxies_list[0]
 	api_endpoint = f'search.php?q={query}&cat=0'
 
-	command = f"cd {path} && start {current_proxy+api_endpoint}"
+	command = f'cd {path} && start "" "{current_proxy+api_endpoint}"'
 	print(command)
 	os.system(command)
 
