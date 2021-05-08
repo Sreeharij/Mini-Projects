@@ -8,10 +8,15 @@ def install():
 		from bs4 import BeautifulSoup
 	except:
 		os.system('pip install bs4')
+	try:
+		import lxml
+	except:
+		os.system('pip install lxml')
 install()
 
 import requests
 from bs4 import BeautifulSoup
+import lxml
 
 path=os.getcwd()
 
@@ -27,7 +32,7 @@ def piratesbay(query):
 		proxies_list.append(site)
 	current_proxy = proxies_list[0]
 	api_endpoint = f'/search/{query}/1/99/0'
-	command = f"cd {path} && start {current_proxy+api_endpoint}"
+	command = f'start "" "{current_proxy+api_endpoint}"'
 	print(command)
 	os.system(command)
 
@@ -37,7 +42,7 @@ def limetorrents(query):
 	current_proxy = proxies_list[0]
 	api_endpoint = f'search/all/{query}/'
 	
-	command = f"cd {path} && start {current_proxy+api_endpoint}"
+	command = f'start "" "{current_proxy+api_endpoint}"'
 	print(command)
 	os.system(command)
 
@@ -47,7 +52,7 @@ def torrent_1337x(query):
 	current_proxy = proxies_list[0]
 	api_endpoint = f'search/{query}/1/'
 	
-	command = f"cd {path} && start {current_proxy+api_endpoint}"
+	command = f'start "" "{current_proxy+api_endpoint}"'
 	print(command)
 	os.system(command)
 
@@ -57,7 +62,7 @@ def rarbg(query):
 	current_proxy = proxies_list[0]
 	api_endpoint = f'torrents.php?search={query}'
 	
-	command = f"cd {path} && start {current_proxy+api_endpoint}"
+	command = f'start "" "{current_proxy+api_endpoint}"'
 	print(command)
 	os.system(command)
 
@@ -67,7 +72,7 @@ def kickass_torrents(query):
 	current_proxy = proxies_list[0]
 	api_endpoint = f'search.php?q={query}&cat=0'
 
-	command = f'cd {path} && start "" "{current_proxy+api_endpoint}"'
+	command = f'start "" "{current_proxy+api_endpoint}"'
 	print(command)
 	os.system(command)
 
