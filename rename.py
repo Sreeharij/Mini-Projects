@@ -2,11 +2,11 @@ import os,shutil,stat,sys
 extension_arr = []
 count = 1
 
-print("[WARNING]This folder containing this program must not have a folder named 'temp'.")
+print("[WARNING]The folder you provide must not have a subfolder named 'temp'.")
 try:
         root = sys.argv[1]
 except:
-        root = input('Enter folder path:(press enter to use current folder) ')
+        root = input('Enter folder to bulk renmae its contents:(press enter to use current folder) ')
 if root == '':
         root = os.getcwd() + '\\'
 else:
