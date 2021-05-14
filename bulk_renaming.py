@@ -5,8 +5,8 @@ count = 1
 try:
         root = sys.argv[sys.argv.index('-file')+1]
 except:
-        root = input('Enter folder to bulk renmae its contents:(press enter to use current folder) ')
-if root == '':
+        root = input("Enter folder to bulk renmae its contents:(type 'confirm' to use current folder) ")
+if root == 'confirm':
         root = os.getcwd() + '\\'
 else:
         if root[-1]!='\\':
