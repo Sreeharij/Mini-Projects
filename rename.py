@@ -22,7 +22,12 @@ except:
                 print('cant proceed as temp folder already exists')
 
 
-all_files = os.listdir(root)
+all_items = os.scandir(root)
+all_files = []
+for item in all_items:
+        if item.is_file():
+                all_files.append(item.name)
+                
 for file in all_files:
         if file=='rename.py' or file=='temp':
                 continue
