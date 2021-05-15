@@ -1,5 +1,6 @@
-import os,random,sys
-
+import os,random,sys,pprint as pp
+old_name = {}
+temporary_renaming = []
 count = 1
 
 try:
@@ -24,7 +25,7 @@ for i in range(len(all_files)):
                 continue
         extension = file.split('.')[-1]
 
-        if f'{count}.{extension}' == file:
+        if f'{count}.{extension}' == file:          
                 pass 
 
         elif f'{count}.{extension}' not in all_files:
@@ -37,10 +38,35 @@ for i in range(len(all_files)):
                         random_number = random.randint(1,100000000)
 
                 os.rename(f'{root}{count}.{extension}',f'{root}{random_number}.{extension}')
-                all_files[dup_idx] = f'{random_number}.{extension}'
                 os.rename(root+file,f'{root}{count}.{extension}')
-                all_files[i] = f'{count}.{extension}'
 
+                temporary_renaming.append((all_files[dup_idx],f'{random_number}.{extension}'))
+
+                all_files[dup_idx] = f'{random_number}.{extension}'
+                all_files[i] = f'{count}.{extension}'
+                
+        flag = False
+        for a,b in temporary_renaming:
+                if file==b:
+                        old_name[a] = f'{count}.{extension}'
+                        flag=True
+        if not flag:
+                old_name[file] = f'{count}.{extension}'
         count += 1
 
+def pretty_loggin():
+	'''Call This function to for nice formatting.'''
+	string = "|" + "-"*80 + "|" + "-"*10 +  "|" + '\n'
+	string += "{:<80} {:<10} {:<5}".format("| Old Name","| New Name","|") +'\n'
+	string +=  "|" + "-"*80 + "|" + "-"*10 +  "|" + '\n'
+	for k,v in old_name.items():
+		string += "{:<80} {:<10} {:<5}".format("| "+k,"| "+v,"|") + '\n'
+		string += "|" + "-"*80 + "|" + "-"*10 +  "|" + '\n'
+	return string
+
+with open(f'{root}renamed_log_file.txt','wt') as f:
+	string = "Old Name : New Name\n"
+	for k,v in old_name.items():
+		string += f"{k} {v}\n"
+	f.write(string)
 
