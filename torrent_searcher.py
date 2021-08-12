@@ -79,8 +79,8 @@ def kickass_torrents(query):
 while True:
 	query = input("Enter torrent to be searched: ")
 	piratesbay(query)
-	limetorrents(query)
-	kickass_torrents(query)
-	torrent_1337x(query)
-	rarbg(query)
+	#limetorrents(query)
+	#kickass_torrents(query)
+	#torrent_1337x(query)
+	#rarbg(query)
 	print("\n[Finished]\n")
