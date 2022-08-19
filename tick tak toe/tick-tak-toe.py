@@ -98,6 +98,7 @@ class App:
             self.cells_used[self.selected][1] = 'O'
             self.cells_used[self.selected][2] = GREEN
             self.cells_used_no += 1
+            self.check_grid()
 
 
 
